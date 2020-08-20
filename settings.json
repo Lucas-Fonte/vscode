@@ -1,0 +1,39 @@
+{
+    "workbench.colorTheme": "Lukin Theme",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.startupEditor": "newUntitledFile",
+    "terminal.integrated.fontFamily": "Fira Code",
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "window.zoomLevel": 0,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "editor.minimap.enabled": false,
+    "editor.formatOnSave": false,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "eslint.packageManager": "yarn",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true,
+        "source.addMissingImports": true
+    },
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "material-icon-theme.folders.color": "#90a4ae",
+    "editor.rulers": [100, 120],
+    "explorer.compactFolders": false,
+    "material-icon-theme.folders.associations": {
+        "components": "React-Components",
+        "screens": "Layout",
+        "navigation": "routes",
+        "utils": "tools",
+        "game": "Job",
+        "CronJob": "Job",
+        "entities": "Scripts",
+        "scrappers": "Scripts",
+        "watchers": "Review",
+        "migrations": "Cluster"
+
+    }
+
+}
+
